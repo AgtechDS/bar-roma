@@ -1,0 +1,48 @@
+.facebook {
+  height: 30px;
+  position: relative;
+  width: 169px;
+}
+
+.facebook .img {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.facebook .overlap-group-wrapper {
+  height: 24px;
+  left: 38px;
+  position: absolute;
+  top: 4px;
+  width: 127px;
+}
+
+.facebook .overlap-group-4 {
+  background-color: #1e1e1e;
+  border: 1px solid;
+  border-color: #ffffff1f;
+  border-radius: 32px;
+  box-shadow: 0px 4px 1px -3px #ffffff7a;
+  height: 24px;
+  position: relative;
+  width: 125px;
+}
+
+.facebook .text-wrapper-6 {
+  color: #fff8f8;
+  font-family: "Righteous", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 13px;
+  left: 8px;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 108px;
+}

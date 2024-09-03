@@ -1,0 +1,34 @@
+.alcolici {
+  height: 38px;
+  position: relative;
+  width: 101px;
+}
+
+.alcolici .div-wrapper {
+  background-color: #1e1e1e;
+  border: 1px solid;
+  border-color: #ffffff4a;
+  border-radius: 12px;
+  box-shadow: 0px 4px 8.1px -4px #ffffff70;
+  height: 40px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 103px;
+}
+
+.alcolici .div {
+  color: #ffffff;
+  font-family: var(--m3-title-medium-font-family);
+  font-size: var(--m3-title-medium-font-size);
+  font-style: var(--m3-title-medium-font-style);
+  font-weight: var(--m3-title-medium-font-weight);
+  height: 31px;
+  left: 2px;
+  letter-spacing: var(--m3-title-medium-letter-spacing);
+  line-height: var(--m3-title-medium-line-height);
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 97px;
+}

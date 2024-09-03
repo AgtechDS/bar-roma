@@ -1,0 +1,255 @@
+.home {
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div-2 {
+  background-color: #1e1e1e;
+  height: 6470px;
+  overflow: hidden;
+  position: relative;
+  width: 392px;
+}
+
+.home .returnhome {
+  background-color: #1e1e1e;
+  height: 44px;
+  left: 83px;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.home .caffetterias {
+  background-image: url(../../../static/img/caffetterias.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 619px;
+  left: 0;
+  position: absolute;
+  top: 886px;
+  width: 390px;
+}
+
+.home .caffetterias-2 {
+  background-image: url(../../../static/img/caffetterias-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 594px;
+  left: 2px;
+  position: absolute;
+  top: 1505px;
+  width: 390px;
+}
+
+.home .brioches {
+  background-image: url(../../../static/img/brioches.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 500px;
+  left: 2px;
+  position: absolute;
+  top: 2099px;
+  width: 392px;
+}
+
+.home .alcolicis {
+  background-image: url(../../../static/img/alcolicis.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 2653px;
+  width: 392px;
+}
+
+.home .cocktails {
+  background-image: url(../../../static/img/cocktails.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 605px;
+  left: 0;
+  position: absolute;
+  top: 3138px;
+  width: 392px;
+}
+
+.home .vinis {
+  background-image: url(../../../static/img/vinis.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 639px;
+  left: 0;
+  position: absolute;
+  top: 3762px;
+  width: 392px;
+}
+
+.home .amaris {
+  background-image: url(../../../static/img/amaris.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 556px;
+  left: 0;
+  position: absolute;
+  top: 4434px;
+  width: 385px;
+}
+
+.home .tavolafreddas {
+  background-image: url(../../../static/img/tavolafreddas.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 625px;
+  left: 0;
+  position: absolute;
+  top: 5068px;
+  width: 392px;
+}
+
+.home .gelaterias {
+  background-image: url(../../../static/img/gelaterias.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 624px;
+  left: 0;
+  position: absolute;
+  top: 5769px;
+  width: 392px;
+}
+
+.home .frame-button {
+  align-items: center;
+  display: inline-flex;
+  gap: 22px;
+  justify-content: center;
+  left: 8px;
+  padding: 32px 14px 34px;
+  position: absolute;
+  top: 6393px;
+}
+
+.home .caffetteria-2 {
+  height: 46.1px;
+  margin-bottom: -7px;
+  margin-left: -5.1px;
+  margin-top: -1.1px;
+  position: relative;
+  width: 111.2px;
+}
+
+.home .alcolici-2 {
+  height: 46.1px;
+  margin-bottom: -7px;
+  margin-top: -1.1px;
+  position: relative;
+  width: 111.2px;
+}
+
+.home .tavola-fredda-2 {
+  height: 46.1px;
+  margin-bottom: -7px;
+  margin-right: -5.1px;
+  margin-top: -1.1px;
+  position: relative;
+  width: 111.2px;
+}
+
+.home .hometavolas-instance {
+  left: 149px !important;
+  position: absolute !important;
+  top: 5716px !important;
+}
+
+.home .homeamaris-instance {
+  left: 146px !important;
+  position: absolute !important;
+  top: 5013px !important;
+}
+
+.home .homebrioches-instance {
+  left: 150px !important;
+  position: absolute !important;
+  top: 2611px !important;
+}
+
+.home .componetsbutton {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 39px 21px;
+  justify-content: center;
+  left: 0;
+  padding: 21px 14px;
+  position: absolute;
+  top: 407px;
+  width: 381px;
+}
+
+.home .facebook-instance {
+  height: 30.32px !important;
+}
+
+.home .orari-f {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 19px 59px;
+  position: absolute;
+  top: 560px;
+  width: 392px;
+}
+
+.home .orari {
+  height: 55px;
+  position: relative;
+  width: 272px;
+}
+
+.home .slogan-f {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 41px;
+  justify-content: center;
+  left: 22px;
+  padding: 0px 40px;
+  position: absolute;
+  top: 317px;
+  width: 345px;
+}
+
+.home .slogan {
+  flex: 0 0 auto;
+  margin-left: -5.58px;
+  margin-right: -6.31px;
+  position: relative;
+}
+
+.home .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 4px;
+  padding: 15px 119px;
+  position: absolute;
+  top: 88px;
+}
+
+.home .logo {
+  height: 184.9px;
+  margin-bottom: -15px;
+  margin-left: -13.9px;
+  margin-right: -13.9px;
+  margin-top: -11.9px;
+  position: relative;
+  width: 170.8px;
+}

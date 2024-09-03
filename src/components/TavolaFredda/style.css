@@ -1,0 +1,33 @@
+.tavola-fredda {
+  height: 38px;
+  position: relative;
+  width: 101px;
+}
+
+.tavola-fredda .overlap-group-2 {
+  background-color: #1e1e1e;
+  border: 1px solid;
+  border-color: #ffffff4a;
+  border-radius: 12px;
+  box-shadow: 0px 4px 8.1px -4px #ffffff70;
+  height: 40px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 103px;
+}
+
+.tavola-fredda .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 31px;
+  left: 2px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 97px;
+}

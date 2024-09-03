@@ -1,0 +1,1 @@
+export { TavolaFredda } from "./TavolaFredda";
