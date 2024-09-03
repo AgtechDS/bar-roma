@@ -5,7 +5,7 @@
     <title>Bar Roma 2.0</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Aggiungi il logo come favicon -->
-    <link rel="icon" href="./static/img/logo.png" type="image/svg+xml" />
+    <link rel="icon" href="./static/img/logo.png" type="image/png" />
     <style>
       @import url("https://fonts.googleapis.com/css?family=Roboto:500,var(--m3-title-medium-font-weight)|Righteous:400");
     </style>
@@ -17,8 +17,14 @@
       }
       html,
       body {
-        margin: 0px;
+        margin: 0;
         height: 100%;
+      }
+      body {
+        display: flex;
+        justify-content: center; /* Centra orizzontalmente */
+        align-items: center; /* Centra verticalmente */
+        background-color: #f4f4f4; /* Sfondo della pagina */
       }
       /* a blue color as a generic focus style */
       button:focus-visible {
@@ -28,13 +34,18 @@
       a {
         text-decoration: none;
       }
+      .logo {
+        width: 150px; /* Larghezza dell'immagine */
+        height: auto; /* Altezza proporzionale */
+        margin: 20px;
+      }
     </style>
     <link href="styleguide.css" rel="stylesheet" />
   </head>
   <body>
     <div id="app">
       <!-- Aggiungi il logo nel corpo della pagina -->
-      <img src="./static/img/logo.svg" alt="Logo Bar Roma" style="width: 150px; height: auto; margin: 20px;" />
+      <img src="./static/img/logo.png" alt="Logo Bar Roma" class="logo" />
     </div>
     <script type="module" src="./src/index.jsx"></script>
   </body>
